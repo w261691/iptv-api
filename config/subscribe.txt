@@ -3,10 +3,11 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
-https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
-https://raw.githubusercontent.com/x22c/okk/refs/heads/master/output/user_result.txt
-https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt
+https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+
 
 
 
