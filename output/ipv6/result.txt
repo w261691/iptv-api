@@ -1,6 +1,3 @@
-🕘️更新时间,#genre#
-2026-03-27 15:10:52,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-
 央视频道,#genre#
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -106,6 +103,7 @@ CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/i
 CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+CETV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
@@ -1327,19 +1325,27 @@ amc电影,https://t.freetv.fun/live/amcdian-ying.m3u8
 荆门新闻综合,https://t.freetv.fun/live/jing-men-xin-wen-zong-he-5.m3u8
 法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=d609d88c2a7adca33abc9500136bfa50&wsTime=1773971972
 法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=35026209fff5251d49e7d20f83d8e266&wsTime=1774591213
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=d7b67c162a5bed80d7a843caa304795e&wsTime=1774670366
 公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=d593113e77467d7acb7d52fae2ab5680&wsTime=1773971972
 公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=567730aa9f0c16acac3d3014087aa56c&wsTime=1774591213
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=9384b47939298430c84a41dfdc63a1a4&wsTime=1774670366
 都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=1ad1d1d2115f4b0d48fcffe6c31f9e65&wsTime=1773971972
 都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=dd60129b2ab3ac76fc069db5847f3e62&wsTime=1774591213
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=6fe61c7dff0cfe1ee069fb4101d0ceb0&wsTime=1774670366
 象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=539ef73aecfe4fa6c5b200fed601565e&wsTime=1773971972
 象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=b8c1848c5fa53af2bfc61d891c09970d&wsTime=1774591213
 象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=2a2031837bc73a59f71cb4dca89ac734&wsTime=1774598447
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=0625a6581d80656fe05535bdc048b263&wsTime=1774670366
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=80983292b7f436289e06c93a17cfa33b&wsTime=1774692054
 电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=93f4af01391036a7dceac23faf743b3c&wsTime=1773971972
 电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=a66f234e8b2b9889ebf85517cbafd0c4&wsTime=1774591213
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=a427d626e822e1ea85ec92cbf50bd0cd&wsTime=1774670366
 河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=babffdb31854d1feb7ee5f10e976b312&wsTime=1773971972
 河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=ed403112ecc4d2ac406083cd40cdb85f&wsTime=1774591213
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=67fb7db6a711c50e856e38a68310cc44&wsTime=1774670366
 民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=beb3ef57e8a5e1c1478c7584e8a634ac&wsTime=1773971972
 民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=8416ca7cff555741de73ab04682383ca&wsTime=1774591213
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=7ffca9d5ab0795b19390c11819e01139&wsTime=1774670366
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-7.m3u8
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
@@ -1788,6 +1794,8 @@ cgtn,https://t.freetv.fun/live/cgtn-5.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-7.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-8.m3u8
 cgtn,https://t.freetv.fun/live/cgtn.m3u8
+cgtn,https://t.freetv.fun/live/cgtn-13.m3u8
+cgtn,https://t.freetv.fun/live/cgtn-9.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 NewTV哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225675/index.m3u8
@@ -1804,8 +1812,12 @@ TVB翡翠台 4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 安徽经济生活,https://stream1.freetv.fun/an-hui-jing-ji-sheng-huo-9.m3u8
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=b472b0a1423dc2347de83dc4122f1517&wsTime=1774591213
+◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=92c679ab15bd141086cca7692f468236&wsTime=1774670366
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d6076150ce1e8a4a88a9a31c5ce199a7&wsTime=1774591213
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=5575ee0810cd87aca00ea4409744f352&wsTime=1774598447
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=f4094c688c09cf58b851d1d7d676d829&wsTime=1774670366
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=5f56731e1c9fe78f38e729de2bc3f809&wsTime=1774692054
 CCTV-4K,https://stream1.freetv.fun/cctv4k-2.ctv
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
 CHC影迷电影,https://t.freetv.fun/live/chcgao-qing-dian-ying.m3u8
@@ -1839,6 +1851,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-4.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-9.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-2.ctv
+CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-25.ctv
@@ -1870,6 +1883,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-2.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-4.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-23.m3u8
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-34.ctv
+嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-7.m3u8
 now新闻,https://t.freetv.fun/live/nowxin-wen.m3u8
 莲花卫视,http://php.jdshipin.com:8880/amlh.php
 newtv超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8
@@ -2452,6 +2466,7 @@ nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
 nba tv,https://t.freetv.fun/live/nba-tv.m3u8
 nba tv,https://stream1.freetv.fun/nba-tv-7.m3u8
 nba tv,https://stream1.freetv.fun/nba-tv-5.m3u8
+nba tv,https://t.freetv.fun/live/nba-tv-3.m3u8
 家庭影院,https://stream1.freetv.fun/jia-ting-ying-yuan-13.ctv
 家庭影院,https://stream1.freetv.fun/jia-ting-ying-yuan-10.m3u8
 家庭影院,https://stream1.freetv.fun/jia-ting-ying-yuan-4.m3u8
@@ -2504,12 +2519,21 @@ TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 武宁新闻综合,https://stream1.freetv.fun/wu-zhu-xin-wen-zong-he-2.m3u8
 江西教育,http://php.jdshipin.com:8880/iptv.php?id=jxjy
 新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=b59e86175a4df879121ee10a6f771711&wsTime=1774598447
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=f60515683c9729ceb13848d52b7843e3&wsTime=1774692054
 都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=b2e2eb2afc9c0e53e544dd7adf29b4d5&wsTime=1774598447
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=5c84750c36feede6912b6e6e6186d8f9&wsTime=1774692054
 民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=bb94d80b25ec7f319c0f1d961e4adc5d&wsTime=1774598447
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=50ba84e8af8163f7592dadeee7dfed24&wsTime=1774692054
 法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=8b729a8342114e033a79d7f7fe932858&wsTime=1774598447
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=a13d69eca75730643d03c4c246852b72&wsTime=1774692054
 公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=6958e15f24e618733cf9884c7db53005&wsTime=1774598447
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=cc555c8fde17f25ee8d06cd396dd621c&wsTime=1774692054
 河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=0ceb7d8030bb97efe8d584955ab4a1ce&wsTime=1774598447
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=16459800faa074f1f289f67f69f741f8&wsTime=1774692054
 电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=a9695095fec7ddd41856f6a0aadab19b&wsTime=1774598447
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=e8fd83de163d628f56b2886e59c4580c&wsTime=1774692054
+◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+amc电影,https://t.freetv.fun/live/amcdian-ying.m3u8
 
 🈳无结果频道,#genre#
 卫生健康,url
@@ -5309,7 +5333,6 @@ CHC影迷电影|澜露直播,url
 宁波综合|澜露直播,url
 杭州青少|澜露直播,url
 金华新闻|澜露直播,url
-嵊州|澜露直播,url
 上虞新尚都|澜露直播,url
 诸暨|澜露直播,url
 嘉善|澜露直播,url
@@ -7832,7 +7855,6 @@ CETV-2 空中课堂,url
 精彩影视,url
 myTV SUPER 18,url
 PopC,url
-NOW爆谷星影,url
 台湾+,url
 翡翠台 backup,url
 iNews新闻,url
@@ -9054,10 +9076,6 @@ YES 933,url
 福建东南广播,url
 福建都市广播•私家车987,url
 福建汽车广播,url
-福州广播,url
-福州交通之声,url
-福州新闻广播,url
-福州左海之声,url
 格莱美音乐,url
 广东广播,url
 广西北部湾之声,url
@@ -9143,8 +9161,6 @@ YES 933,url
 陕西新闻广播,url
 上海动感101,url
 上海长三角之声,url
-绍兴交通广播,url
-绍兴之声,url
 深圳飞扬971,url
 深圳飞扬音乐,url
 私家车999,url
@@ -9216,7 +9232,6 @@ YES 933,url
 「电视伴音」河北卫视,url
 「电视伴音」河南卫视,url
 「电视伴音」云南卫视,url
-「电视伴音」贵州卫视,url
 「电视伴音」甘肃卫视,url
 「电视伴音」陕西卫视,url
 「电视伴音」延边卫视,url
@@ -9225,8 +9240,6 @@ YES 933,url
 「电视伴音」江西卫视,url
 「电视伴音」宁夏卫视,url
 「电视伴音」山西卫视,url
-「电视伴音」香港卫视,url
-「电视伴音」青海卫视,url
 「电视伴音」内蒙古卫视,url
 「电视伴音」新疆卫视,url
 ◆◆◆　https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
@@ -10043,7 +10056,6 @@ Zhejiang TV International,url
 黑龙江卫视 (2160p),url
 ◆◆◆　https://m3u.ibert.me/txt/ycl_iptv.txt
 CGTN英语,url
-group-title="数字"_zz-definition="HD",url
 ◆◆◆　https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 CGTN英语,url
 ◆◆◆　https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
@@ -12232,3 +12244,81 @@ dj舞曲英雄泪,url
 女神金,url
 奇光主播,url
 网神影厅,url
+◆◆◆　http://ku9.fr.to/ku9/1768502278.txt
+◆◆◆　https://188766.xyz/itv
+◆◆◆　https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt
+更新日期: 2026-3-28 06:25:51,url
+◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
+2026-03-28 09:17:47,url
+晓晓666666 426517,url
+豆腐芭比6478650,url
+悠悠爱电影,url
+萌萌小桃子,url
+沐希兔子,url
+广丰电视,url
+嵊州|澜露直播,url
+◆◆◆　https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
+◆◆◆　http://bxtv.3a.ink/live.txt
+◆◆◆　https://15280.kstore.space/%E5%A5%A5%E5%8F%B0.txt
+◆◆◆　https://iptv.catvod.com/tv.m3u
+🎁 CCTV7,url
+🎁 CCTV7,url
+🎁 东方卫视,url
+🎁 四川卫视,url
+🎁 广东珠江,url
+◆◆◆　https://live.catvod.com/tv.m3u
+🎁 CCTV7,url
+🎁 CCTV怀旧剧场,url
+◆◆◆　https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
+CCTV-3综艺,url
+福州广播,url
+福州交通之声,url
+福州新闻广播,url
+福州左海之声,url
+绍兴交通广播,url
+绍兴之声,url
+「电视伴音」贵州卫视,url
+「电视伴音」香港卫视,url
+「电视伴音」青海卫视,url
+◆◆◆　https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
+CCTV13,url
+group-title="数字"_zz-definition="HD",url
+◆◆◆　https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
+2026-03-28 06:30:26,url
+20260328 10:01:53,url
+CCTV🎁 怀旧剧场,url
+CCTV-电视指南,url
+陕西体育休闲频道,url
+辽宁广播电视台体育休闲频道,url
+南京新闻综合频道,url
+南京教科频道,url
+南京十八频道,url
+体育休闲频道,url
+江苏城市频道,url
+江苏影视频道,url
+江苏综艺频道,url
+公共新闻频道,url
+陕西银龄频道,url
+陕西都市青春频道,url
+陕西秦腔频道,url
+陕西新闻资讯频道,url
+辽宁广播电视台公共频道,url
+辽宁广播电视台生活频道,url
+辽宁广播电视台影视剧频道,url
+宁夏广播电视台文旅频道,url
+宁夏广播电视台经济频道,url
+和美乡途轮播台,url
+熊猫频道01高清,url
+熊猫频道1,url
+熊猫频道2,url
+熊猫频道3,url
+熊猫频道4,url
+熊猫频道5,url
+熊猫频道6,url
+熊猫频道7,url
+熊猫频道8,url
+熊猫频道9,url
+熊猫频道10,url
+
+🕘️更新时间,#genre#
+2026-03-28 15:02:57,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
