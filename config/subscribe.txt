@@ -6,7 +6,7 @@
 
 https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt
 https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt
-https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+
 
 
 
@@ -14,3 +14,4 @@ https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.t
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
