@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/w261691/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-10 14:33:28
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-01 11:37:11
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
@@ -1723,6 +1723,8 @@ http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 #EXTINF:-1 tvg-id="河南乡村频道" tvg-name="河南乡村频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南乡村频道.png" group-title="♻️未匹配频道",河南乡村频道
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=cdd08756d193b7a64471fff54c4a13c0&wsTime=1778407122
+#EXTINF:-1 tvg-id="河南乡村频道" tvg-name="河南乡村频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南乡村频道.png" group-title="♻️未匹配频道",河南乡村频道
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=7e1976cdde5d09ac6d79ff68674277de&wsTime=1780293595
 #EXTINF:-1 tvg-id="周口新闻综合" tvg-name="周口新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周口新闻综合.png" group-title="♻️未匹配频道",周口新闻综合
 https://stream1.freetv.fun/zhou-kou-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-id="周口新闻综合" tvg-name="周口新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/周口新闻综合.png" group-title="♻️未匹配频道",周口新闻综合
@@ -1809,6 +1811,8 @@ https://www.freetv.top/migu/651632657.m3u8?migutoken=b4a3e55048f55ec1c8fc5b509fb
 https://www.freetv.top/migu/651632657.m3u8?migutoken=5ae42e8fda034ab7bf5171dafa0043e70cd12bcd716940c4572fde52ea92b0785f16f1bdbce4c83f5e075b250fe95668f19f8527dda57c27db24f95d412614d99c86a3a2d9341d88b5224b7068
 #EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市频道.png" group-title="♻️未匹配频道",都市频道
 http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=0f8ef7f0b9f64df8ca4a255f4d21b31c&wsTime=1778407122
+#EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市频道.png" group-title="♻️未匹配频道",都市频道
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=24a52c808dc8f329b7cd6b4f12cf49f7&wsTime=1780293595
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方影视.png" group-title="♻️未匹配频道",东方影视
 https://stream1.freetv.fun/dong-fang-ying-shi-12.m3u8
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方影视.png" group-title="♻️未匹配频道",东方影视
@@ -6629,15 +6633,29 @@ https://stream1.freetv.fun/fu-jian-jing-ji-5.m3u8
 https://stream1.freetv.fun/fu-jian-jing-ji-6.m3u8
 #EXTINF:-1 tvg-id="新闻频道" tvg-name="新闻频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新闻频道.png" group-title="♻️未匹配频道",新闻频道
 http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=6dad3ef3d715daea2b824042d9a7922e&wsTime=1778407122
+#EXTINF:-1 tvg-id="新闻频道" tvg-name="新闻频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新闻频道.png" group-title="♻️未匹配频道",新闻频道
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=cc05b6d816f887cc7b22ddd1443fb9cd&wsTime=1780293595
 #EXTINF:-1 tvg-id="民生频道" tvg-name="民生频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民生频道.png" group-title="♻️未匹配频道",民生频道
 http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=27042ef0c10835e8e7ec22b35202661b&wsTime=1778407122
+#EXTINF:-1 tvg-id="民生频道" tvg-name="民生频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民生频道.png" group-title="♻️未匹配频道",民生频道
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=4f465d127bf8c1b18324636d07875ef3&wsTime=1780293595
 #EXTINF:-1 tvg-id="法治频道" tvg-name="法治频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法治频道.png" group-title="♻️未匹配频道",法治频道
 http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=d8ebf5a9b741dec76b4f7946376c7f76&wsTime=1778407122
+#EXTINF:-1 tvg-id="法治频道" tvg-name="法治频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法治频道.png" group-title="♻️未匹配频道",法治频道
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=04d17241607fa1f90705bba856e13e5c&wsTime=1780293595
 #EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公共频道.png" group-title="♻️未匹配频道",公共频道
 http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=a38dd6fd137fcc57eab6cb58bc816b14&wsTime=1778407122
+#EXTINF:-1 tvg-id="公共频道" tvg-name="公共频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公共频道.png" group-title="♻️未匹配频道",公共频道
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=85ca46b62aafab41046049cf44f8afcb&wsTime=1780293595
 #EXTINF:-1 tvg-id="电视剧频道" tvg-name="电视剧频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电视剧频道.png" group-title="♻️未匹配频道",电视剧频道
 http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=a210cc8f4a677d789561c89299a572d7&wsTime=1778407122
+#EXTINF:-1 tvg-id="电视剧频道" tvg-name="电视剧频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电视剧频道.png" group-title="♻️未匹配频道",电视剧频道
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=ce4ab09ba4b58f05c6aef53e8d26caf3&wsTime=1780293595
 #EXTINF:-1 tvg-id="象视界" tvg-name="象视界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象视界.png" group-title="♻️未匹配频道",象视界
 http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=59eb2482e5649126c172cd6c7e9a95d2&wsTime=1778407122
+#EXTINF:-1 tvg-id="象视界" tvg-name="象视界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象视界.png" group-title="♻️未匹配频道",象视界
+http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=a27d49f275a7615ecf5ceb80bd671762&wsTime=1780293595
 #EXTINF:-1 tvg-id="欢腾购物" tvg-name="欢腾购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢腾购物.png" group-title="♻️未匹配频道",欢腾购物
 http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=cf533582f10c550dece120830732734b&wsTime=1778407122
+#EXTINF:-1 tvg-id="欢腾购物" tvg-name="欢腾购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢腾购物.png" group-title="♻️未匹配频道",欢腾购物
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=a95c1ff41c22c22993587db238c87e62&wsTime=1780293595
